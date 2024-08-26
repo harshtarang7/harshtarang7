@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarang Harsh
 - 👀 I’m interested in coding(most probably)
-- 🌱 I’m currently learning advancing NestJS and GraphQL with TypeORM
+- 🌱 I’m currently learning NestJS and GraphQL with TypeORM
 - 📫 How to reach me
 * LinkedIn - https://www.linkedin.com/in/tarang-harsh-b3b804230/
 * Twitter - https://x.com/TarangHarsh07
