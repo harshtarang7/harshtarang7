@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tarang Harsh
-- 👀 I’m interested in coding(most probably)
-- 🌱 I’m currently learning Backend
-- 📫 How to reach me
+- 👀 just curious how much and how better i can code.....
+- 🌱 I’m currently working as a full stack dev 
+- 📫 To reach me
 * LinkedIn - https://www.linkedin.com/in/tarang-harsh-b3b804230/
 * Twitter - https://x.com/TarangHarsh07
 - ⚡ Fun fact: I need tea to code
